@@ -1,0 +1,220 @@
+{
+  "artists": [
+    {
+      "name": "Vincent van Gogh",
+      "discipline": "Painting",
+      "years": "1853–1890",
+      "nationality": "Dutch",
+      "intro": "Post-Impressionist painter whose swirling, emotionally charged brushwork transformed Western art.",
+      "biography": "Van Gogh took up painting seriously only in his late twenties, after failed careers as an art dealer and preacher. Largely self-taught, he produced over 2,000 works in just a decade, most of them in his final two years while battling severe mental illness. He sold almost nothing during his lifetime and depended on financial support from his brother Theo, dying by suicide at 37. His posthumous fame grew rapidly, and he is now one of the most celebrated painters in history.",
+      "style": "Van Gogh used thick, visible brushstrokes (impasto) and bold, often non-naturalistic color to convey emotion rather than literal appearance. His compositions pulse with rhythmic, swirling movement, turning skies, wheat fields, and cypress trees into expressions of inner feeling.",
+      "technical_skillset": [
+        "Applied paint in thick impasto strokes directly from the tube, building physical texture on the canvas",
+        "Used complementary color contrasts (blue/orange, yellow/violet) to heighten visual intensity",
+        "Developed a distinctive rhythmic, curling brushstroke pattern to convey movement in skies and foliage",
+        "Worked rapidly, often completing a canvas in a single sitting during periods of intense productivity",
+        "Studied Japanese woodblock prints, adopting flattened perspective and bold outlines into his work"
+      ],
+      "top_works": [
+        {"title": "The Starry Night", "year": "1889", "note": "A swirling night sky over a quiet village, painted from his asylum window.", "link": "https://en.wikipedia.org/wiki/The_Starry_Night"},
+        {"title": "Sunflowers (series)", "year": "1888", "note": "Vibrant still lifes made to decorate his Yellow House in Arles.", "link": "https://en.wikipedia.org/wiki/Sunflowers_(Van_Gogh_series)"},
+        {"title": "The Potato Eaters", "year": "1885", "note": "An early, somber depiction of peasant life in muted earth tones.", "link": "https://en.wikipedia.org/wiki/The_Potato_Eaters"},
+        {"title": "Café Terrace at Night", "year": "1888", "note": "A glowing yellow café awning against a deep blue starlit sky.", "link": "https://en.wikipedia.org/wiki/Caf%C3%A9_Terrace_at_Night"},
+        {"title": "The Bedroom", "year": "1888", "note": "His own room in Arles, painted with tilted perspective and bold flat color.", "link": "https://en.wikipedia.org/wiki/Bedroom_in_Arles"},
+        {"title": "Self-Portrait with Bandaged Ear", "year": "1889", "note": "Painted soon after the episode in which he severed part of his own ear.", "link": "https://en.wikipedia.org/wiki/Self-Portrait_with_Bandaged_Ear"}
+      ]
+    },
+    {
+      "name": "Frida Kahlo",
+      "discipline": "Painting",
+      "years": "1907–1954",
+      "nationality": "Mexican",
+      "intro": "Painter whose fierce self-portraits fused personal pain, Mexican identity, and surreal symbolism.",
+      "biography": "Kahlo began painting during a long recovery from a near-fatal bus accident at eighteen, which left her with lifelong chronic pain. Married to muralist Diego Rivera, she developed a highly personal style distinct from his large-scale public murals, often working from bed with a mirror mounted above her. Her paintings addressed physical suffering, miscarriage, identity, and Mexican culture with unflinching honesty, and she became a major icon of both Mexican art and feminist art history.",
+      "style": "Kahlo's work blends stark realism with dreamlike, symbolic elements drawn from Mexican folk art, indigenous iconography, and personal mythology. Her self-portraits confront the viewer directly, using physical pain and cultural symbolism as inseparable threads.",
+      "technical_skillset": [
+        "Painted primarily in oil on small-format canvases and metal sheets, often working from bed",
+        "Incorporated retablo (Mexican votive painting) traditions, including flattened space and narrative symbolism",
+        "Used vivid, saturated color palettes drawn from Mexican folk art and textiles",
+        "Embedded personal and cultural symbols (monkeys, thorns, indigenous dress) as recurring visual language",
+        "Frequently used self-portraiture as a controlled, repeatable subject during long periods of physical immobility"
+      ],
+      "top_works": [
+        {"title": "The Two Fridas", "year": "1939", "note": "Two versions of the artist, one in European dress, one in Tehuana dress, hearts connected.", "link": "https://en.wikipedia.org/wiki/The_Two_Fridas"},
+        {"title": "Self-Portrait with Thorn Necklace and Hummingbird", "year": "1940", "note": "Pain and nature intertwined around her neck.", "link": "https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird"},
+        {"title": "The Broken Column", "year": "1944", "note": "Her spine depicted as a shattered classical column, pierced with nails.", "link": "https://en.wikipedia.org/wiki/The_Broken_Column"},
+        {"title": "Henry Ford Hospital", "year": "1932", "note": "A raw depiction of her miscarriage, painted on metal in retablo style.", "link": "https://en.wikipedia.org/wiki/Henry_Ford_Hospital_(painting)"},
+        {"title": "Self-Portrait with Cropped Hair", "year": "1940", "note": "Kahlo in a man's suit, surrounded by her own cut-off hair after her divorce from Rivera.", "link": "https://en.wikipedia.org/wiki/Self-Portrait_with_Cropped_Hair"},
+        {"title": "The Wounded Deer", "year": "1946", "note": "Her own face on a deer's body, pierced by arrows in a dark forest.", "link": "https://commons.wikimedia.org/w/index.php?search=Frida+Kahlo+The+Wounded+Deer&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Rembrandt van Rijn",
+      "discipline": "Painting",
+      "years": "1606–1669",
+      "nationality": "Dutch",
+      "intro": "Dutch Golden Age master renowned for dramatic light and profound psychological portraiture.",
+      "biography": "Rembrandt achieved early fame in Amsterdam as a sought-after portrait painter before financial troubles and personal losses, including the deaths of his wife and several children, marked his later years. Despite declining fortune, his later work is often considered his most emotionally profound, including dozens of unflinching self-portraits made across his entire career that chart his aging and inner life.",
+      "style": "Rembrandt is best known for chiaroscuro — dramatic contrasts between light and shadow that isolate and dignify his subjects. His portraits favor psychological depth and visible humanity over idealized beauty, often built from thick, expressive paint application in his later years.",
+      "technical_skillset": [
+        "Mastered chiaroscuro, using a single dramatic light source to sculpt form and direct emotional focus",
+        "Developed increasingly thick, textured impasto brushwork in his later career for expressive skin and fabric",
+        "Was a prolific and innovative etcher, using drypoint and varied inking to create atmospheric prints",
+        "Painted dozens of self-portraits across his lifetime, using himself as a study in aging and expression",
+        "Used underpainting and glazing layers to build luminous, complex skin tones"
+      ],
+      "top_works": [
+        {"title": "The Night Watch", "year": "1642", "note": "A monumental, dynamically staged group militia portrait breaking convention.", "link": "https://en.wikipedia.org/wiki/The_Night_Watch"},
+        {"title": "Self-Portrait with Two Circles", "year": "c.1665–69", "note": "A late self-portrait of raw honesty and mastery.", "link": "https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles"},
+        {"title": "The Anatomy Lesson of Dr. Nicolaes Tulp", "year": "1632", "note": "A group portrait built around a dissection scene.", "link": "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp"},
+        {"title": "Bathsheba at Her Bath", "year": "1654", "note": "A tender, psychologically complex nude study.", "link": "https://en.wikipedia.org/wiki/Bathsheba_at_Her_Bath_(Rembrandt)"},
+        {"title": "The Jewish Bride", "year": "c.1665", "note": "An intimate double portrait of tenderness late in his life, admired by van Gogh.", "link": "https://en.wikipedia.org/wiki/The_Jewish_Bride"},
+        {"title": "Belshazzar's Feast", "year": "1635–38", "note": "A dramatic biblical scene capturing the instant of divine warning at a royal banquet.", "link": "https://en.wikipedia.org/wiki/Belshazzar%27s_Feast_(Rembrandt)"}
+      ]
+    },
+    {
+      "name": "Johannes Vermeer",
+      "discipline": "Painting",
+      "years": "1632–1675",
+      "nationality": "Dutch",
+      "intro": "Quiet master of light-filled domestic interiors, famous for luminous, jewel-like realism.",
+      "biography": "Vermeer worked slowly and left behind a small body of roughly 34 known paintings, produced in the Dutch city of Delft. He worked largely outside the mainstream art market of his time and died in debt, and his reputation was largely rebuilt in the 19th century after centuries of obscurity. Little is documented about his life or training, and much of what is known comes from tax and legal records rather than personal writings.",
+      "style": "Vermeer specialized in intimate domestic scenes bathed in soft, natural window light, rendered with extraordinary attention to texture and optical accuracy. His compositions are calm and precisely balanced, often centered on a single figure absorbed in quiet, everyday activity.",
+      "technical_skillset": [
+        "Rendered light with optical precision, likely aided by studying projected images through a camera obscura",
+        "Used expensive natural ultramarine pigment (ground lapis lazuli) extensively, even in shadow areas",
+        "Built luminous surfaces through thin, carefully layered glazes rather than heavy impasto",
+        "Composed scenes with mathematically balanced geometry, often anchored by a window on the left",
+        "Rendered textiles, pearls, and reflective surfaces with near-photographic material accuracy"
+      ],
+      "top_works": [
+        {"title": "Girl with a Pearl Earring", "year": "1665", "note": "An intimate, luminous portrait often called the 'Mona Lisa of the North'.", "link": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring"},
+        {"title": "The Milkmaid", "year": "1658", "note": "A servant pouring milk, rendered with extraordinary textural realism.", "link": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)"},
+        {"title": "View of Delft", "year": "1660–61", "note": "A rare cityscape showcasing his mastery of light on water and architecture.", "link": "https://en.wikipedia.org/wiki/View_of_Delft"},
+        {"title": "The Art of Painting", "year": "1666–68", "note": "An allegorical, self-referential scene of the artist at work.", "link": "https://en.wikipedia.org/wiki/The_Art_of_Painting"},
+        {"title": "Woman Holding a Balance", "year": "1662–63", "note": "A woman weighing pearls and gold beneath a painting of the Last Judgment.", "link": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance"},
+        {"title": "The Geographer", "year": "1669", "note": "A scholar mid-thought by a sunlit window, one of his few paintings signed and dated.", "link": "https://en.wikipedia.org/wiki/The_Geographer"}
+      ]
+    },
+    {
+      "name": "Katsushika Hokusai",
+      "discipline": "Printmaking / Painting",
+      "years": "1760–1849",
+      "nationality": "Japanese",
+      "intro": "Ukiyo-e woodblock master whose wave imagery became one of the most recognized artworks in the world.",
+      "biography": "Hokusai worked prolifically for over seven decades, changing his artistic name more than thirty times to mark different phases of his career. He produced tens of thousands of works across painting, sketching, and woodblock printing, and remained restlessly dedicated to improving his craft even into old age, reportedly saying he hoped to keep progressing past the age of 100.",
+      "style": "Hokusai's work combines bold outline, flattened perspective, and dynamic composition drawn from the ukiyo-e ('pictures of the floating world') tradition, often depicting nature's power alongside everyday human life. His late-career landscape series brought new depth and Western-influenced perspective to Japanese printmaking.",
+      "technical_skillset": [
+        "Designed multi-block woodcut prints, coordinating precise color separation for professional carvers and printers",
+        "Used strong outline (line-block) with flat color fills characteristic of ukiyo-e technique",
+        "Incorporated Western linear perspective techniques learned from imported Dutch prints",
+        "Produced the Hokusai Manga, thousands of sketches cataloguing figures, animals, and nature studies",
+        "Continually revised and refined his working style across name changes and career phases"
+      ],
+      "top_works": [
+        {"title": "The Great Wave off Kanagawa", "year": "c.1831", "note": "A towering wave dwarfing boats with Mount Fuji in the distance.", "link": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"},
+        {"title": "Fine Wind, Clear Morning (Red Fuji)", "year": "c.1831", "note": "A serene, minimalist view of Mount Fuji at dawn.", "link": "https://en.wikipedia.org/wiki/Fine_Wind,_Clear_Morning"},
+        {"title": "Thirty-Six Views of Mount Fuji (series)", "year": "1830–32", "note": "The landmark print series that includes both the Great Wave and Red Fuji.", "link": "https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji"},
+        {"title": "Hokusai Manga", "year": "1814–1878", "note": "Fifteen volumes of sketches spanning everyday life, animals, and the supernatural.", "link": "https://en.wikipedia.org/wiki/Hokusai_Manga"},
+        {"title": "Kajikazawa in Kai Province", "year": "c.1831", "note": "A fisherman balanced on rocks against a dizzying view of Mount Fuji, part of the Views series.", "link": "https://commons.wikimedia.org/w/index.php?search=Hokusai+Kajikazawa+in+Kai+Province&title=Special:MediaSearch&type=image"},
+        {"title": "The Dragon of Smoke Escaping from Mt. Fuji", "year": "1849", "note": "One of his final works, painted in the year of his death.", "link": "https://commons.wikimedia.org/w/index.php?search=Hokusai+Dragon+of+Smoke+Escaping+from+Mount+Fuji&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Georgia O'Keeffe",
+      "discipline": "Painting",
+      "years": "1887–1986",
+      "nationality": "American",
+      "intro": "Modernist painter known for monumental flower close-ups and stark New Mexico desert landscapes.",
+      "biography": "O'Keeffe studied art in Chicago and New York before developing an abstracted style that caught the attention of photographer and gallerist Alfred Stieglitz, whom she later married. She split her time between New York and, increasingly, New Mexico, where the desert landscape around Ghost Ranch became a defining subject for the rest of her long career. She is widely regarded as a founder of American modernism.",
+      "style": "O'Keeffe painted natural forms — flowers, bones, and desert landscapes — magnified and abstracted to emphasize pure shape, color, and rhythm over botanical accuracy. Her work bridges representational subject matter and near-abstraction.",
+      "technical_skillset": [
+        "Painted flowers and natural forms at massive scale, cropping tightly to isolate abstract shape and color",
+        "Used smooth, controlled oil paint application with minimal visible brushwork for a clean, graphic surface",
+        "Developed a restrained, harmonious color palette drawn from desert tones and organic forms",
+        "Studied animal bones and desert forms as sculptural subjects independent of their original context",
+        "Balanced abstraction and representation, keeping subjects identifiable while emphasizing pure form"
+      ],
+      "top_works": [
+        {"title": "Black Iris III", "year": "1926", "note": "A dramatically enlarged, abstracted flower study.", "link": "https://en.wikipedia.org/wiki/Black_Iris_III"},
+        {"title": "Cow's Skull: Red, White, and Blue", "year": "1931", "note": "An American icon blending regional imagery with patriotic color.", "link": "https://en.wikipedia.org/wiki/Cow%27s_Skull:_Red,_White,_and_Blue"},
+        {"title": "Jimson Weed / White Flower No. 1", "year": "1932", "note": "A monumental close-up bloom, once the most expensive painting by a woman sold at auction.", "link": "https://en.wikipedia.org/wiki/Jimson_Weed/White_Flower_No._1"},
+        {"title": "Radiator Building—Night, New York", "year": "1927", "note": "A rare urban nocturne showing her early Precisionist-influenced side.", "link": "https://en.wikipedia.org/wiki/Radiator_Building%E2%80%94Night,_New_York"},
+        {"title": "Ram's Head, White Hollyhock and Little Hills", "year": "1935", "note": "A desert skull floating above a New Mexico landscape.", "link": "https://commons.wikimedia.org/w/index.php?search=Georgia+O%27Keeffe+Ram%27s+Head+White+Hollyhock&title=Special:MediaSearch&type=image"},
+        {"title": "Blue and Green Music", "year": "1921", "note": "An early, near-abstract work exploring synesthetic color and rhythm.", "link": "https://commons.wikimedia.org/w/index.php?search=Georgia+O%27Keeffe+Blue+and+Green+Music&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Pablo Picasso",
+      "discipline": "Painting / Sculpture",
+      "years": "1881–1973",
+      "nationality": "Spanish",
+      "intro": "Endlessly inventive co-founder of Cubism who reshaped 20th-century art across countless styles.",
+      "biography": "A child prodigy trained by his artist father, Picasso moved to Paris as a young man and cycled through his melancholic Blue Period and warmer Rose Period before co-developing Cubism with Georges Braque around 1907. Over a career spanning seven decades, he continually reinvented his style, working across painting, sculpture, ceramics, and printmaking, and remained one of the most prolific and influential artists of the modern era.",
+      "style": "Picasso's work is defined by radical formal experimentation, most famously Cubism's fragmented, multi-perspective depiction of form. He moved fluidly between abstraction and figuration, using bold distortion to convey emotional and political intensity as much as visual innovation.",
+      "technical_skillset": [
+        "Co-developed Cubism, depicting subjects from multiple simultaneous viewpoints on a flattened picture plane",
+        "Used collage and mixed media (papier collé), incorporating newspaper and found materials into paintings",
+        "Worked confidently across mediums — oil painting, sculpture, ceramics, and printmaking — often within the same period",
+        "Employed bold, often jarring color and distorted anatomy to heighten emotional and political impact",
+        "Continuously shifted stylistic direction across career phases (Blue, Rose, Cubist, Neoclassical, Surrealist)"
+      ],
+      "top_works": [
+        {"title": "Les Demoiselles d'Avignon", "year": "1907", "note": "A radical, angular depiction of five nude figures that helped launch Cubism.", "link": "https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon"},
+        {"title": "Guernica", "year": "1937", "note": "A monumental anti-war painting responding to the bombing of the Basque town.", "link": "https://en.wikipedia.org/wiki/Guernica_(Picasso)"},
+        {"title": "The Weeping Woman", "year": "1937", "note": "A fragmented, anguished portrait related to Guernica's themes.", "link": "https://en.wikipedia.org/wiki/The_Weeping_Woman"},
+        {"title": "Girl Before a Mirror", "year": "1932", "note": "A Cubist-influenced exploration of duality and self-perception.", "link": "https://en.wikipedia.org/wiki/Girl_Before_a_Mirror"},
+        {"title": "The Old Guitarist", "year": "1903–04", "note": "A gaunt, elongated figure from his somber Blue Period.", "link": "https://en.wikipedia.org/wiki/The_Old_Guitarist"},
+        {"title": "Three Musicians", "year": "1921", "note": "A flat, colorful Synthetic Cubist scene of masked figures playing music.", "link": "https://en.wikipedia.org/wiki/Three_Musicians"}
+      ]
+    },
+    {
+      "name": "Caravaggio",
+      "discipline": "Painting",
+      "years": "1571–1610",
+      "nationality": "Italian",
+      "intro": "Baroque revolutionary who brought raw realism and violent drama to religious painting.",
+      "biography": "Caravaggio led a turbulent life marked by frequent brawls and a manslaughter charge that forced him to flee Rome under sentence of death, spending his final years moving between Naples, Malta, and Sicily. Despite his chaotic personal life, he was highly sought after by powerful patrons and churches, and his innovations in light and realism had an outsized influence on European painting for generations.",
+      "style": "Caravaggio pioneered tenebrism, an intensified form of chiaroscuro using stark, theatrical light against near-black backgrounds. He rejected idealized religious imagery in favor of gritty, working-class models and raw physical realism, staging biblical scenes with the immediacy of street theater.",
+      "technical_skillset": [
+        "Pioneered tenebrism — extreme dark-light contrast with a single, focused light source and minimal midtones",
+        "Painted directly from live models without extensive preparatory drawing, unusual for his time",
+        "Used ordinary people, including the poor and street figures, as models for saints and biblical figures",
+        "Staged compositions with theatrical, cropped framing that placed the viewer close to the action",
+        "Achieved intense physical realism in anatomy, fabric, and still-life detail within dramatic shadow"
+      ],
+      "top_works": [
+        {"title": "The Calling of Saint Matthew", "year": "1599–1600", "note": "A shaft of light picking Matthew from a shadowed tavern scene.", "link": "https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew_(Caravaggio)"},
+        {"title": "Judith Beheading Holofernes", "year": "1599", "note": "A brutally direct depiction of violence and resolve.", "link": "https://en.wikipedia.org/wiki/Judith_Beheading_Holofernes_(Caravaggio)"},
+        {"title": "Supper at Emmaus", "year": "1601", "note": "A startling moment of recognition rendered with intense realism.", "link": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Caravaggio,_London)"},
+        {"title": "David with the Head of Goliath", "year": "1610", "note": "A haunting late work believed to include a self-portrait as Goliath.", "link": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)"},
+        {"title": "Basket of Fruit", "year": "c.1599", "note": "One of the earliest pure still lifes in Western art, painted with startling realism.", "link": "https://en.wikipedia.org/wiki/Basket_of_Fruit"},
+        {"title": "Medusa", "year": "1597", "note": "A shield painting of the mythological gorgon's severed, screaming head.", "link": "https://en.wikipedia.org/wiki/Medusa_(Caravaggio)"}
+      ]
+    },
+    {
+      "name": "Gustav Klimt",
+      "discipline": "Painting",
+      "years": "1862–1918",
+      "nationality": "Austrian",
+      "intro": "Vienna Secession leader famed for opulent, gold-leafed symbolist portraits.",
+      "biography": "Klimt trained in the academic tradition before co-founding the Vienna Secession in 1897, a movement rejecting conservative art institutions in favor of bold new styles. Working primarily in Vienna, he became known for elaborate decorative portraits of the city's wealthy elite, often provoking controversy for their eroticism and unconventional symbolism.",
+      "style": "Klimt fused richly patterned, gold-leafed ornamentation with sensuous, sinuous figuration, drawing on Byzantine mosaics, Art Nouveau design, and symbolist themes of love, death, and desire. His work sits at the boundary between decorative pattern and psychologically charged portraiture.",
+      "technical_skillset": [
+        "Applied genuine gold leaf directly onto canvas, a technique learned partly from his father's work as a gold engraver",
+        "Combined flat, intricate decorative patterning with naturalistically rendered faces and skin",
+        "Drew on Byzantine mosaic traditions for shimmering, non-naturalistic backgrounds",
+        "Used elaborate symbolic ornamentation (spirals, eyes, geometric shapes) to encode emotional meaning",
+        "Balanced two-dimensional pattern with three-dimensional figure modeling within a single composition"
+      ],
+      "top_works": [
+        {"title": "The Kiss", "year": "1907–08", "note": "An entwined couple wrapped in shimmering gold-leaf pattern, his most iconic work.", "link": "https://en.wikipedia.org/wiki/The_Kiss_(Klimt)"},
+        {"title": "Portrait of Adele Bloch-Bauer I", "year": "1907", "note": "A dazzling gold portrait later dubbed 'the Woman in Gold'.", "link": "https://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I"},
+        {"title": "Judith and the Head of Holofernes", "year": "1901", "note": "A sensuous, unsettling biblical scene.", "link": "https://en.wikipedia.org/wiki/Judith_and_the_Head_of_Holofernes_(Klimt)"},
+        {"title": "The Stoclet Frieze (Tree of Life)", "year": "1909", "note": "A sweeping decorative mural centerpiece made for the Stoclet Palace in Brussels.", "link": "https://en.wikipedia.org/wiki/Stoclet_Frieze"},
+        {"title": "Danaë", "year": "1907", "note": "A curled, intimate mythological nude rendered in swirling gold and pattern.", "link": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Klimt)"},
+        {"title": "Death and Life", "year": "1910–15", "note": "A monumental allegory contrasting a grinning skeletal death with a huddled mass of the living.", "link": "https://en.wikipedia.org/wiki/Death_and_Life"}
+      ]
+    }
+  ]
+}

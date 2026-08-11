@@ -1,0 +1,244 @@
+{
+  "artists": [
+    {
+      "name": "Ansel Adams",
+      "discipline": "Photography",
+      "years": "1902–1984",
+      "nationality": "American",
+      "intro": "The master of the American wilderness, known for black-and-white landscapes of unmatched tonal depth.",
+      "biography": "Trained first as a concert pianist, Adams brought a musician's sense of precision and rhythm to photography. A visit to Yosemite in 1916 with his family's Kodak Brownie sparked a lifelong devotion to the American West. He became a founding member of Group f/64, a collective that rejected the soft-focus 'pictorialist' style in favor of sharp, direct photography. Adams spent decades photographing national parks and became one of the most effective advocates for wilderness conservation, working closely with the Sierra Club and helping expand the National Park System through his images.",
+      "style": "Adams pursued maximum sharpness, extreme tonal range, and monumental composition. He treated the negative as a musical score and the print as its performance, believing no two prints should be identical. His images elevate landscape from documentation to near-religious experience, using scale, light, and geometry to suggest the sublime.",
+      "technical_skillset": [
+        "Co-developed the Zone System with Fred Archer — a method for precisely controlling exposure and development to capture a full range of tones",
+        "Mastered large-format view cameras (8x10 and larger) for extreme detail and depth of field",
+        "Expert in darkroom dodging, burning, and contrast control to realize a pre-visualized final print",
+        "Used small apertures (f/64 and smaller) to achieve near-infinite depth of field across foreground and distant peaks",
+        "Pioneered 'pre-visualization' — mentally composing the final print's tonal values before pressing the shutter"
+      ],
+      "top_works": [
+        {"title": "Moonrise, Hernandez, New Mexico", "year": "1941", "note": "A luminous moon over a small town, shot in fading light with famously precise exposure calculations.", "link": "https://en.wikipedia.org/wiki/Moonrise,_Hernandez,_New_Mexico"},
+        {"title": "The Tetons and the Snake River", "year": "1942", "note": "A sweeping, near-symmetrical composition made for the National Archives; later included on the Voyager Golden Record.", "link": "https://en.wikipedia.org/wiki/The_Tetons_and_the_Snake_River"},
+        {"title": "Clearing Winter Storm", "year": "1944", "note": "Yosemite Valley emerging from mist, showing his command of atmospheric tonal range.", "link": "https://en.wikipedia.org/wiki/Clearing_Winter_Storm"},
+        {"title": "Monolith, the Face of Half Dome", "year": "1927", "note": "An early breakthrough using a red filter to darken the sky dramatically.", "link": "https://en.wikipedia.org/wiki/Monolith,_the_Face_of_Half_Dome"},
+        {"title": "El Capitan, Winter, Sunrise", "year": "1968", "note": "A later career study of Yosemite's granite face under raking winter light.", "link": "https://commons.wikimedia.org/w/index.php?search=Ansel+Adams+El+Capitan+Winter+Sunrise&title=Special:MediaSearch&type=image"},
+        {"title": "Aspens, Northern New Mexico", "year": "1958", "note": "A dense, near-abstract vertical study of tree trunks, showing his eye for pattern beyond grand vistas.", "link": "https://commons.wikimedia.org/w/index.php?search=Ansel+Adams+Aspens+New+Mexico&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Henri Cartier-Bresson",
+      "discipline": "Photography",
+      "years": "1908–2004",
+      "nationality": "French",
+      "intro": "Pioneer of street photography and originator of the phrase 'the decisive moment.'",
+      "biography": "Cartier-Bresson began as a painter before picking up a Leica in 1932, which he called an extension of his eye. He traveled restlessly through Europe, Africa, and Asia, photographing everyday life with an almost invisible presence. In 1947 he co-founded Magnum Photos, the influential photographer-owned cooperative, alongside Robert Capa and others. He covered major historical moments including Gandhi's funeral and the Chinese Communist Revolution, always favoring quiet observation over staged drama.",
+      "style": "His work is built on geometric precision and split-second timing — capturing the exact instant when form, gesture, and meaning align within the frame. He shot exclusively in black and white, avoided cropping his images afterward, and preferred to disappear into a scene rather than direct it.",
+      "technical_skillset": [
+        "Used a compact 35mm Leica rangefinder for speed and discretion, often with a normal 50mm lens",
+        "Refused to crop images in the darkroom, composing the full frame precisely at the moment of exposure",
+        "Developed acute anticipatory timing, pre-framing a scene and waiting for a fleeting gesture to complete it",
+        "Applied strong geometric composition, using lines, reflections, and repeated shapes drawn from his painting background",
+        "Worked unobtrusively, often taping over the Leica's chrome body to avoid drawing attention"
+      ],
+      "top_works": [
+        {"title": "Behind the Gare Saint-Lazare", "year": "1932", "note": "A leaping figure frozen mid-air over a puddle, the archetype of the decisive moment.", "link": "https://en.wikipedia.org/wiki/Behind_the_Gare_Saint-Lazare"},
+        {"title": "Rue Mouffetard, Paris", "year": "1954", "note": "A boy proudly carrying two wine bottles through a Parisian street.", "link": "https://commons.wikimedia.org/w/index.php?search=Cartier-Bresson+Rue+Mouffetard&title=Special:MediaSearch&type=image"},
+        {"title": "Gandhi's Funeral, Delhi", "year": "1948", "note": "Part of a solemn photo essay documenting India in mourning.", "link": "https://commons.wikimedia.org/w/index.php?search=Cartier-Bresson+Gandhi+funeral&title=Special:MediaSearch&type=image"},
+        {"title": "Downtown Shanghai", "year": "1949", "note": "Crowds rushing to withdraw gold before the city's fall to Communist forces.", "link": "https://commons.wikimedia.org/w/index.php?search=Cartier-Bresson+Shanghai+1949&title=Special:MediaSearch&type=image"},
+        {"title": "Alberto Giacometti Crossing the Rue d'Alésia", "year": "1961", "note": "The sculptor caught mid-stride in the rain, coat pulled tight, echoing his own elongated figures.", "link": "https://commons.wikimedia.org/w/index.php?search=Cartier-Bresson+Giacometti+rue+d%27Alesia&title=Special:MediaSearch&type=image"},
+        {"title": "Sunday on the Banks of the Marne", "year": "1938", "note": "A working-class picnic captured with warmth and quiet social observation.", "link": "https://commons.wikimedia.org/w/index.php?search=Cartier-Bresson+Sunday+Banks+of+the+Marne&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Diane Arbus",
+      "discipline": "Photography",
+      "years": "1923–1971",
+      "nationality": "American",
+      "intro": "Provocative portraitist of people on the margins of mid-century American life.",
+      "biography": "Arbus started in commercial fashion photography with her husband Allan before breaking away to pursue her own vision in the late 1950s. Studying under Lisette Model, she turned her lens toward subjects society usually looked away from: circus performers, nudists, twins, and people with disabilities. Her direct, often disquieting square-format portraits challenged conventions of beauty and normalcy. She died by suicide in 1971, a year before a major retrospective at MoMA cemented her legacy.",
+      "style": "Arbus photographed her subjects head-on, often with unflinching eye contact with the camera, refusing to romanticize or pity them. Her flash-lit square frames feel both intimate and confrontational, blurring the line between empathy and unease.",
+      "technical_skillset": [
+        "Shot primarily on a twin-lens reflex medium-format camera (Rolleiflex, later a Mamiya) for its square 6x6 frame",
+        "Used direct on-camera flash even in daylight, flattening depth and creating a stark, clinical look",
+        "Built trust with unconventional subjects through patient, personal engagement before photographing them",
+        "Centered subjects frontally in the frame, rejecting classical rule-of-thirds composition for confrontation",
+        "Printed with a visible black border to signal the full, uncropped negative was shown"
+      ],
+      "top_works": [
+        {"title": "Identical Twins, Roselle, New Jersey", "year": "1967", "note": "Two sisters in matching dresses with subtly different expressions.", "link": "https://en.wikipedia.org/wiki/Identical_Twins,_Roselle,_New_Jersey"},
+        {"title": "Child with a Toy Hand Grenade in Central Park", "year": "1962", "note": "A boy's contorted expression turned into an icon of unease.", "link": "https://en.wikipedia.org/wiki/Child_with_a_Toy_Hand_Grenade_in_Central_Park"},
+        {"title": "A Jewish Giant at Home with His Parents, Bronx, NY", "year": "1970", "note": "A study in scale and domestic tenderness.", "link": "https://commons.wikimedia.org/w/index.php?search=Diane+Arbus+Jewish+Giant+Bronx&title=Special:MediaSearch&type=image"},
+        {"title": "A Young Brooklyn Family Going for a Sunday Outing", "year": "1966", "note": "An unsettling suburban tableau of a young couple and their children.", "link": "https://commons.wikimedia.org/w/index.php?search=Diane+Arbus+Young+Brooklyn+Family&title=Special:MediaSearch&type=image"},
+        {"title": "Woman with a Veil on Fifth Avenue, NYC", "year": "1968", "note": "A study of anonymity and elegance amid the city crowd.", "link": "https://commons.wikimedia.org/w/index.php?search=Diane+Arbus+Woman+with+veil+Fifth+Avenue&title=Special:MediaSearch&type=image"},
+        {"title": "Untitled (institution series)", "year": "1970–71", "note": "Her final body of work, made at residences for people with developmental disabilities.", "link": "https://commons.wikimedia.org/w/index.php?search=Diane+Arbus+Untitled+series&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Vivian Maier",
+      "discipline": "Photography",
+      "years": "1926–2009",
+      "nationality": "American (of French descent)",
+      "intro": "The secret street photographer who worked as a nanny and was only discovered after her death.",
+      "biography": "Maier spent most of her life as a live-in nanny in Chicago and its suburbs, quietly photographing street life on her days off for over four decades. She shared her work with almost no one, and it wasn't until 2007, when a box of her negatives was bought at a storage-unit auction, that her staggering archive of over 100,000 images came to light. She never lived to see her posthumous recognition as one of the century's great street photographers.",
+      "style": "Maier had a sharp, curious eye for irony, class contrast, and fleeting human expression on city streets. Her self-portraits, often caught in shop windows and mirrors, show a wry awareness of her own presence as an observer.",
+      "technical_skillset": [
+        "Shot primarily with a Rolleiflex twin-lens camera worn at chest height, allowing candid, low-profile framing",
+        "Composed instinctively in square format, often using reflections and shadows to insert herself into scenes",
+        "Later experimented with 35mm cameras and color film as technology evolved",
+        "Processed and archived her own film meticulously despite never showing the work publicly",
+        "Had a talent for approaching strangers closely without being noticed, capturing unguarded expressions"
+      ],
+      "top_works": [
+        {"title": "Self-Portraits (series)", "year": "1950s–1970s", "note": "Dozens of formal, deadpan self-portraits caught in mirrors, shop windows, and shadows.", "link": "https://www.vivianmaier.com/gallery/self-portraits/"},
+        {"title": "Street photography (Chicago & New York)", "year": "1950s–1960s", "note": "Her core body of work: candid black-and-white street life across two major cities.", "link": "https://www.vivianmaier.com/gallery/street-1/"},
+        {"title": "Color street work", "year": "1970s–1980s", "note": "A later shift to color 35mm film, showing a looser, more experimental eye.", "link": "https://www.vivianmaier.com/gallery/color-work-1/"},
+        {"title": "Portraits of children", "year": "1950s–1960s", "note": "Candid, unposed images of the children she cared for and encountered on the street.", "link": "https://www.vivianmaier.com/gallery/portraits/"},
+        {"title": "New York, NY", "year": "1954", "note": "A socialite passing a homeless woman on the sidewalk, both women looking away from each other.", "link": "https://commons.wikimedia.org/w/index.php?search=Vivian+Maier+New+York+1954&title=Special:MediaSearch&type=image"},
+        {"title": "Abstractions & details", "year": "1950s–1970s", "note": "Lesser-known still-life and abstract frames showing her range beyond street portraiture.", "link": "https://www.vivianmaier.com/gallery/abstractions/"}
+      ]
+    },
+    {
+      "name": "Dorothea Lange",
+      "discipline": "Photography",
+      "years": "1895–1965",
+      "nationality": "American",
+      "intro": "Documentary photographer whose Depression-era portraits gave a human face to poverty.",
+      "biography": "After running a successful portrait studio in San Francisco, Lange shifted toward documentary work as the Great Depression deepened, photographing bread lines and displaced farm workers. She was hired by the Farm Security Administration to document rural poverty, producing some of the most enduring images of the era. She later photographed the forced internment of Japanese Americans during WWII, work the government initially suppressed.",
+      "style": "Lange combined formal portrait technique with social documentary urgency, seeking dignity and individual humanity within images meant to illustrate systemic hardship. Her compositions are simple and direct, letting expression and gesture carry the emotional weight.",
+      "technical_skillset": [
+        "Used medium-format cameras (Graflex) suited to fieldwork, balancing portability with image quality",
+        "Built rapport quickly with subjects in difficult circumstances, prioritizing consent and human connection",
+        "Framed tightly on faces and hands to emphasize emotional and physical toll",
+        "Paired images with detailed captions and interview notes, treating photography as journalism",
+        "Worked within government assignment constraints while still asserting a distinct personal voice"
+      ],
+      "top_works": [
+        {"title": "Migrant Mother", "year": "1936", "note": "Florence Owens Thompson's careworn face, the defining image of the Great Depression.", "link": "https://en.wikipedia.org/wiki/Migrant_Mother"},
+        {"title": "White Angel Breadline", "year": "1933", "note": "A hunched man at a San Francisco soup kitchen, Lange's first major documentary photo.", "link": "https://en.wikipedia.org/wiki/White_Angel_Breadline"},
+        {"title": "Japanese American internment photographs", "year": "1942", "note": "Quietly damning documentation of forced relocation, suppressed by the government for decades.", "link": "https://commons.wikimedia.org/w/index.php?search=Dorothea+Lange+Japanese+internment&title=Special:MediaSearch&type=image"},
+        {"title": "Plantation Overseer, Mississippi Delta", "year": "1936", "note": "A study of racial and economic power dynamics in the rural South.", "link": "https://commons.wikimedia.org/w/index.php?search=Dorothea+Lange+Plantation+Overseer+Mississippi&title=Special:MediaSearch&type=image"},
+        {"title": "Damaged Child, Shacktown, Elm Grove, Oklahoma", "year": "1936", "note": "An unflinching portrait of a child in a Dust Bowl squatter camp.", "link": "https://commons.wikimedia.org/w/index.php?search=Dorothea+Lange+Damaged+Child+Shacktown&title=Special:MediaSearch&type=image"},
+        {"title": "Woman of the High Plains, Texas Panhandle", "year": "1938", "note": "A weathered portrait accompanied by Lange's own field notes on drought and displacement.", "link": "https://commons.wikimedia.org/w/index.php?search=Dorothea+Lange+Woman+of+the+High+Plains&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Sebastião Salgado",
+      "discipline": "Photography",
+      "years": "1944–2025",
+      "nationality": "Brazilian",
+      "intro": "Epic-scale documentarian of labor, migration, and the natural world in dramatic black and white.",
+      "biography": "Trained as an economist, Salgado turned to photography in his late twenties and spent decades on long-term global projects, often living among his subjects for months. His major series — Workers, Migrations, and Genesis — chronicle industrial labor, mass displacement, and untouched wilderness, respectively. He and his wife Lélia also founded Instituto Terra, restoring a deforested region of Brazil into a nature reserve.",
+      "style": "Salgado's images are monumental and painterly, using dramatic natural light and deep contrast to lend near-biblical gravity to laborers, refugees, and landscapes alike. He works exclusively in black and white to strip away distraction and focus on form and human condition.",
+      "technical_skillset": [
+        "Shoots almost entirely in black and white, later processed digitally after decades on film",
+        "Immerses himself for extended periods (weeks to months) to gain trust and access within communities",
+        "Uses natural, often harsh light to sculpt subjects with dramatic contrast and texture",
+        "Employs wide environmental framing to place individuals within vast physical and social contexts",
+        "Works in long-term, multi-year thematic projects rather than single assignments"
+      ],
+      "top_works": [
+        {"title": "Serra Pelada Gold Mine, Brazil", "year": "1986", "note": "Thousands of miners scaling makeshift ladders in a scene evoking ancient epics.", "link": "https://commons.wikimedia.org/w/index.php?search=Salgado+Serra+Pelada&title=Special:MediaSearch&type=image"},
+        {"title": "Church Gate Station, Mumbai", "year": "1995", "note": "Commuters swarming a train in a chaotic, geometric human mass.", "link": "https://commons.wikimedia.org/w/index.php?search=Salgado+Churchgate+Station+Mumbai&title=Special:MediaSearch&type=image"},
+        {"title": "Migrations series", "year": "1993–1999", "note": "A global chronicle of displaced peoples across dozens of countries.", "link": "https://commons.wikimedia.org/w/index.php?search=Sebastiao+Salgado+Migrations&title=Special:MediaSearch&type=image"},
+        {"title": "Genesis series", "year": "2004–2011", "note": "Pristine landscapes and wildlife from the world's last untouched regions.", "link": "https://commons.wikimedia.org/w/index.php?search=Sebastiao+Salgado+Genesis&title=Special:MediaSearch&type=image"},
+        {"title": "Kuwait Oil Fires", "year": "1991", "note": "Firefighters silhouetted against blazing, smoke-choked oil wells after the Gulf War.", "link": "https://commons.wikimedia.org/w/index.php?search=Salgado+Kuwait+oil+fires&title=Special:MediaSearch&type=image"},
+        {"title": "Workers series — Trans-Amazonian Highway", "year": "1986–1992", "note": "Part of his decade-long global survey of industrial and manual labor.", "link": "https://commons.wikimedia.org/w/index.php?search=Sebastiao+Salgado+Workers+series&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Irving Penn",
+      "discipline": "Photography",
+      "years": "1917–2009",
+      "nationality": "American",
+      "intro": "Master of minimalist studio portraiture and fashion photography for Vogue.",
+      "biography": "Penn joined Vogue in 1943 and spent over six decades shaping the look of high fashion photography, alongside still-life and ethnographic portrait work made during his travels. He was known for radically stripping down his studio setups, often using plain backdrops and natural window light rather than elaborate sets. His personal projects, including portraits of tradespeople and indigenous subjects from Peru, New Guinea, and Morocco, brought the same austere clarity to subjects outside fashion.",
+      "style": "Penn favored extreme simplicity: neutral backgrounds, controlled light, and precise composition that put full attention on the subject's form, texture, and gesture. Even his fashion work feels sculptural and deliberate rather than glamorous or busy.",
+      "technical_skillset": [
+        "Used a corner-set studio backdrop that confined sitters into a narrow triangular space, forcing revealing body language",
+        "Relied on soft, directional north-light-style studio lighting for sculptural modeling with minimal harshness",
+        "Mastered platinum-palladium printing, a slow archival process producing extraordinary tonal depth",
+        "Composed still lifes (like his famous cigarette-butt studies) with the same rigor as portraiture",
+        "Worked with large-format cameras for maximum detail in both studio and location portraits"
+      ],
+      "top_works": [
+        {"title": "Truman Capote", "year": "1948", "note": "The writer folded into Penn's tight corner set, a hallmark of the series.", "link": "https://commons.wikimedia.org/w/index.php?search=Irving+Penn+Truman+Capote+portrait&title=Special:MediaSearch&type=image"},
+        {"title": "The Twelve Most Photographed Models", "year": "1947", "note": "A landmark group fashion portrait for Vogue.", "link": "https://commons.wikimedia.org/w/index.php?search=Irving+Penn+Twelve+Most+Photographed+Models&title=Special:MediaSearch&type=image"},
+        {"title": "Cigarettes series", "year": "1972", "note": "Monumental platinum prints of crushed cigarette butts as sculptural still life.", "link": "https://commons.wikimedia.org/w/index.php?search=Irving+Penn+Cigarettes+series&title=Special:MediaSearch&type=image"},
+        {"title": "Small Trades series", "year": "1950–1951", "note": "Portraits of tradespeople in Paris, London, and New York in their work clothes.", "link": "https://commons.wikimedia.org/w/index.php?search=Irving+Penn+Small+Trades&title=Special:MediaSearch&type=image"},
+        {"title": "Woman with Roses (Rochas)", "year": "1951", "note": "A haute couture portrait exemplifying his sculptural studio lighting.", "link": "https://commons.wikimedia.org/w/index.php?search=Irving+Penn+Woman+with+Roses+Rochas&title=Special:MediaSearch&type=image"},
+        {"title": "Pablo Picasso, Cannes", "year": "1957", "note": "A piercing, tightly cropped portrait of the artist late in his career.", "link": "https://commons.wikimedia.org/w/index.php?search=Irving+Penn+Pablo+Picasso+Cannes&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Annie Leibovitz",
+      "discipline": "Photography",
+      "years": "1949–present",
+      "nationality": "American",
+      "intro": "Celebrity and editorial portraitist known for dramatic, narrative-driven staged images.",
+      "biography": "Leibovitz became chief photographer at Rolling Stone in the 1970s, later moving to Vanity Fair and Vogue, where she has photographed prominent cultural figures for decades. She photographed John Lennon on the day of his murder — an image later published on the cover of Rolling Stone — and has since built a career on elaborate, concept-driven celebrity portraiture.",
+      "style": "Leibovitz treats each portrait as a constructed scene, drawing on classical painting, cinema, and pop culture references. Her images are often theatrical and heavily art-directed, using color, costume, and setting to build a narrative around her subject's public persona.",
+      "technical_skillset": [
+        "Directs large-scale productions with sets, lighting crews, and stylists comparable to film shoots",
+        "Uses elaborate multi-light setups to achieve cinematic, painterly lighting effects",
+        "Employs both digital medium-format cameras and large-format film for different projects",
+        "Collaborates closely with subjects to develop concept and narrative before the shoot",
+        "Skilled at blending environmental portraiture with fine art staging and heavy post-production"
+      ],
+      "top_works": [
+        {"title": "John Lennon and Yoko Ono", "year": "1980", "note": "Lennon nude and curled around a clothed Ono, shot hours before his death.", "link": "https://commons.wikimedia.org/w/index.php?search=Annie+Leibovitz+John+Lennon+Yoko+Ono+1980&title=Special:MediaSearch&type=image"},
+        {"title": "More Demi Moore", "year": "1991", "note": "A nude, seven-months-pregnant Vanity Fair cover that sparked major cultural debate.", "link": "https://en.wikipedia.org/wiki/More_Demi_Moore"},
+        {"title": "Whoopi Goldberg in a Bathtub of Milk", "year": "1984", "note": "A surreal, high-concept Vanity Fair portrait.", "link": "https://commons.wikimedia.org/w/index.php?search=Annie+Leibovitz+Whoopi+Goldberg+bathtub+of+milk&title=Special:MediaSearch&type=image"},
+        {"title": "Queen Elizabeth II", "year": "2007", "note": "A formal state portrait blending classical grandeur with modern clarity.", "link": "https://commons.wikimedia.org/w/index.php?search=Annie+Leibovitz+Queen+Elizabeth+II+2007&title=Special:MediaSearch&type=image"},
+        {"title": "Call Me Caitlyn (Caitlyn Jenner)", "year": "2015", "note": "A Vanity Fair cover marking Jenner's public introduction under her name.", "link": "https://en.wikipedia.org/wiki/Call_Me_Caitlyn"},
+        {"title": "Serena Williams, pregnant", "year": "2017", "note": "A Vanity Fair cover echoing and updating her own 1991 Demi Moore portrait.", "link": "https://commons.wikimedia.org/w/index.php?search=Annie+Leibovitz+Serena+Williams+Vanity+Fair+pregnant&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Gordon Parks",
+      "discipline": "Photography",
+      "years": "1912–2006",
+      "nationality": "American",
+      "intro": "Self-taught photographer, filmmaker, and writer who documented Black American life and civil rights.",
+      "biography": "Parks bought his first camera at a pawn shop and taught himself photography, eventually becoming the first Black staff photographer at Life magazine. Over more than two decades there, he documented poverty, segregation, and the civil rights movement, along with fashion and celebrity portraiture. He later became the first major Black director in Hollywood, directing Shaft, but always considered photography his foundation.",
+      "style": "Parks combined empathetic documentary observation with strong formal composition learned from fashion work, giving his social subjects both dignity and visual power. He moved fluidly between hard-hitting photojournalism and elegant studio portraiture.",
+      "technical_skillset": [
+        "Balanced photojournalistic spontaneity with deliberate, classically composed framing",
+        "Used long-term embedded access to build trust with subjects, notably the Fontenelle family in Harlem",
+        "Worked across genres — fashion, portraiture, and documentary — with a consistent formal eye",
+        "Skilled at both black-and-white reportage and rich color work for magazine spreads",
+        "Used photography as explicit social advocacy, pairing images with his own writing"
+      ],
+      "top_works": [
+        {"title": "American Gothic, Washington, D.C.", "year": "1942", "note": "A Black government cleaning woman posed before an American flag, echoing the famous painting.", "link": "https://en.wikipedia.org/wiki/American_Gothic_(photograph)"},
+        {"title": "Harlem Gang Leader", "year": "1948", "note": "His first Life photo essay, establishing his documentary reputation.", "link": "https://commons.wikimedia.org/w/index.php?search=Gordon+Parks+Harlem+Gang+Leader&title=Special:MediaSearch&type=image"},
+        {"title": "The Fontenelle Family series", "year": "1967", "note": "An intimate, extended Harlem poverty documentary essay for Life magazine.", "link": "https://commons.wikimedia.org/w/index.php?search=Gordon+Parks+Fontenelle+Family&title=Special:MediaSearch&type=image"},
+        {"title": "Muhammad Ali, Miami", "year": "1966", "note": "A dynamic athletic portrait made for Life magazine.", "link": "https://commons.wikimedia.org/w/index.php?search=Gordon+Parks+Muhammad+Ali+Miami&title=Special:MediaSearch&type=image"},
+        {"title": "Segregation Story series, Alabama", "year": "1956", "note": "A pioneering color photo essay on everyday life under Jim Crow segregation.", "link": "https://commons.wikimedia.org/w/index.php?search=Gordon+Parks+Segregation+Story&title=Special:MediaSearch&type=image"},
+        {"title": "Invisible Man, Harlem, New York", "year": "1952", "note": "A surreal image made in dialogue with Ralph Ellison's novel of the same year.", "link": "https://commons.wikimedia.org/w/index.php?search=Gordon+Parks+Invisible+Man+Harlem&title=Special:MediaSearch&type=image"}
+      ]
+    },
+    {
+      "name": "Man Ray",
+      "discipline": "Photography",
+      "years": "1890–1976",
+      "nationality": "American",
+      "intro": "Surrealist experimenter who blurred the line between photography and abstract art.",
+      "biography": "Born Emmanuel Radnitzky in Philadelphia, Man Ray moved to Paris in 1921 and became a central figure in the Dada and Surrealist movements, working alongside artists like Marcel Duchamp. He supported himself with fashion and portrait photography while pursuing experimental techniques that pushed photography's boundaries as a fine art medium.",
+      "style": "Man Ray treated the camera as a tool for visual play rather than documentation, embracing chance, distortion, and abstraction. His work often merges the human body with surreal, dreamlike compositions.",
+      "technical_skillset": [
+        "Pioneered the 'rayograph' — placing objects directly on photosensitive paper and exposing it to light without a camera",
+        "Used solarization (partial light re-exposure during development) to create striking outlined, reversed-tone effects",
+        "Experimented with multiple exposure and unconventional cropping to create surreal juxtapositions",
+        "Applied classical studio lighting techniques to fashion and portrait work for major magazines",
+        "Combined photography with painting and object-making within a single surrealist practice"
+      ],
+      "top_works": [
+        {"title": "Le Violon d'Ingres", "year": "1924", "note": "A woman's back transformed into a violin via painted f-holes, a surrealist icon.", "link": "https://en.wikipedia.org/wiki/Le_Violon_d%27Ingres_(photograph)"},
+        {"title": "Noire et Blanche", "year": "1926", "note": "A model's face juxtaposed with an African mask, exploring form and contrast.", "link": "https://commons.wikimedia.org/w/index.php?search=Man+Ray+Noire+et+Blanche&title=Special:MediaSearch&type=image"},
+        {"title": "Rayographs", "year": "1920s", "note": "Camera-less abstract images made directly on photo paper.", "link": "https://commons.wikimedia.org/w/index.php?search=Man+Ray+Rayograph&title=Special:MediaSearch&type=image"},
+        {"title": "Tears (Larmes)", "year": "1932", "note": "A close-up of glass beads mimicking tears on a woman's face.", "link": "https://commons.wikimedia.org/w/index.php?search=Man+Ray+Larmes+Tears&title=Special:MediaSearch&type=image"},
+        {"title": "Gift (Cadeau)", "year": "1921", "note": "A flatiron studded with nails, a Dada readymade object as provocative as his photographs.", "link": "https://commons.wikimedia.org/w/index.php?search=Man+Ray+Cadeau+Gift+flatiron&title=Special:MediaSearch&type=image"},
+        {"title": "Indestructible Object (Object to Be Destroyed)", "year": "1923", "note": "A metronome with a photographed eye clipped to its arm, later remade after being destroyed by protestors.", "link": "https://commons.wikimedia.org/w/index.php?search=Man+Ray+Indestructible+Object&title=Special:MediaSearch&type=image"}
+      ]
+    }
+  ]
+}

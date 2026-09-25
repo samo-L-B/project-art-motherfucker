@@ -59,6 +59,7 @@ python "C:\full\path\to\daily_art.py" %*
 | `python3 daily_art.py --category art` | Today's artist from painters/printmakers only |
 | `python3 daily_art.py --category photography` | Today's artist from photographers only |
 | `python3 daily_art.py --random` | Show a random artist right now, without affecting the daily cycle |
+| `python3 daily_art.py --quiz` | Guess-the-artist: intro/style/biography with the name redacted, then reveal |
 | `python3 daily_art.py --name "Klimt"` | Jump straight to a specific artist (partial, case-insensitive match) |
 | `python3 daily_art.py --list` | List every artist in the selected database(s), grouped by discipline |
 | `python3 daily_art.py --stats` | See how many you've seen and how many remain in this cycle |
@@ -174,10 +175,24 @@ State file (created automatically, not shipped): `~/.daily_art/state.json`
 
 ---
 
+## Guess-the-artist quiz
+
+`--quiz` picks a random artist from the selected pool (respects `--category`
+and `--data`, and never touches your daily-pick history) and shows the
+intro, style, and biography with every occurrence of the artist's name —
+first name, surname, and connectors like "van" or "de" — blanked out as
+`█████`. Type a guess and press ENTER: a full name, a surname alone
+("gogh"), or a recognizable chunk ("van gogh") all count as correct. Leave
+it blank to reveal, or type `q` to bail out. After the reveal you're offered
+the normal artist/artwork viewer, so a quiz round can flow straight into
+reading the full profile.
+
+Because the quiz reads a plain typed line instead of raw keypresses, it also
+works over SSH sessions or terminals where the arrow-key viewer's raw input
+mode misbehaves.
+
 ## Ideas for extending it further
 
-- A `--quiz` mode that hides the name and top works, and asks you to guess
-  the artist from the style description alone.
 - A `cron` / Task Scheduler entry to email or notify yourself the daily pick
   automatically each morning.
 - A companion `--images` flag that opens a web search for the top works

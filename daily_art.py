@@ -37,6 +37,7 @@ import re
 import shutil
 import sys
 import textwrap
+import unicodedata
 import webbrowser
 from datetime import date
 from pathlib import Path
@@ -1407,32 +1408,53 @@ def redact_name(text, name):
     return redacted
 
 
-def name_matches(guess, artist_name):
+def name_tokens(text):
     """
-    Accept the full name, a recognizable chunk of it (e.g. "van gogh"),
-    or any single significant word (e.g. "gogh", "picasso").
+    Lowercase words of a name with accents and apostrophes removed, so
+    "Sebastiao" matches "Sebastião" and "okeeffe" matches "O'Keeffe".
     """
 
-    guess = guess.strip().lower()
+    plain = "".join(
+        ch
+        for ch in unicodedata.normalize("NFKD", text.lower())
+        if not unicodedata.combining(ch)
+    )
 
-    if not guess:
-        return False
+    plain = re.sub(r"['’.]", "", plain)
 
-    name_lower = artist_name.lower()
-
-    if guess == name_lower:
-        return True
-
-    if len(guess) >= 3 and guess in name_lower:
-        return True
-
-    tokens = [
+    return [
         token
-        for token in re.split(r"[\s-]+", name_lower)
-        if token not in NAME_STOPWORDS
+        for token in re.split(r"[\s-]+", plain)
+        if token
     ]
 
-    return guess in tokens
+
+def name_matches(guess, artist_name):
+    """
+    Accept the full name, a run of whole words from it (e.g. "van gogh",
+    "cartier bresson"), or any single significant word (e.g. "gogh",
+    "picasso"). Fragments ("ent") and bare connectors ("van") don't count.
+    """
+
+    guess_tokens = name_tokens(guess)
+
+    if not guess_tokens:
+        return False
+
+    tokens = name_tokens(artist_name)
+
+    if not any(
+        token not in NAME_STOPWORDS
+        for token in guess_tokens
+    ):
+        return False
+
+    size = len(guess_tokens)
+
+    return any(
+        tokens[start:start + size] == guess_tokens
+        for start in range(len(tokens) - size + 1)
+    )
 
 
 def render_quiz_screen(artist, c):
